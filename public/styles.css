@@ -59,6 +59,10 @@ body {
   background-color: #d7780b;
 }
 
+.button.delete {
+  background-color: lightcoral;
+}
+
 header, footer {
   background-color: black;
   color: white;
